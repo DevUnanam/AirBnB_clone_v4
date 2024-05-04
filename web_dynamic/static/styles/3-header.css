@@ -9,3 +9,15 @@ header .logo {
     left: 20px;
     height: 100%;
 }
+/* Add this class for the API status */
+.api-status {
+	position: absolute;
+	top: 50%;
+	right: 30px;
+	transform: translateY(-50%);
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background-color: #cccccc; /* Change to the desired background color */
+		}
+
